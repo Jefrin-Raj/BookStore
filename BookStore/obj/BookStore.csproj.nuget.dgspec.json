@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj": {}
+    "C:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj": {
+    "C:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "c:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj",
+        "projectPath": "C:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\BookStore.csproj",
         "packagesPath": "C:\\Users\\jefri\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\obj\\",
+        "outputPath": "C:\\Users\\jefri\\Desktop\\jeff\\Trials\\BookStore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

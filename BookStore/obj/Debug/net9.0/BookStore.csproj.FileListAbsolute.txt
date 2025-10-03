@@ -164,3 +164,4 @@ c:\Users\jefri\Desktop\jeff\Trials\BookStore\obj\Debug\net9.0\refint\BookStore.d
 c:\Users\jefri\Desktop\jeff\Trials\BookStore\obj\Debug\net9.0\BookStore.pdb
 c:\Users\jefri\Desktop\jeff\Trials\BookStore\obj\Debug\net9.0\BookStore.genruntimeconfig.cache
 c:\Users\jefri\Desktop\jeff\Trials\BookStore\obj\Debug\net9.0\ref\BookStore.dll
+c:\Users\jefri\Desktop\jeff\Trials\BookStore\obj\Debug\net9.0\BookStore.sourcelink.json
