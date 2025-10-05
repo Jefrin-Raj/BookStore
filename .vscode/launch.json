@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "coreclr",
+      "request": "launch",
+      "name": "Launch BookStore ASP.NET Core App",
+      "program": "${workspaceFolder}/BookStore/bin/Debug/net9.0/BookStore.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/BookStore",
+      "env": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "stopAtEntry": false,
+      "preLaunchTask": "build"
+    }
+  ]
+}
