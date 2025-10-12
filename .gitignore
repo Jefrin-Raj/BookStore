@@ -26,6 +26,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
+[Bb]uild/
+[Oo]ut/
+bin/
+obj/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs
@@ -34,6 +38,9 @@ bld/
 
 # Visual Studio 2017 auto generated files
 Generated\ Files/
+*.dll
+*.exe
+*.pdb
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
