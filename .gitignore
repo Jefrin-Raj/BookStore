@@ -345,3 +345,21 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+BookStore/obj/Debug/net9.0/refint/BookStore.dll
+BookStore/bin/Debug/net9.0/BookStore.dll
+BookStore/bin/Debug/net9.0/BookStore.exe
+BookStore/bin/Debug/net9.0/BookStore.pdb
+BookStore/obj/BookStore.csproj.nuget.dgspec.json
+BookStore/obj/project.nuget.cache
+BookStore/obj/Debug/net9.0/apphost.exe
+BookStore/obj/Debug/net9.0/BookStore.AssemblyInfo.cs
+BookStore/obj/Debug/net9.0/BookStore.AssemblyInfoInputs.cache
+BookStore/obj/Debug/net9.0/BookStore.assets.cache
+BookStore/obj/Debug/net9.0/BookStore.dll
+BookStore/obj/Debug/net9.0/BookStore.GeneratedMSBuildEditorConfig.editorconfig
+BookStore/obj/Debug/net9.0/BookStore.pdb
+BookStore/obj/Debug/net9.0/BookStore.sourcelink.json
+BookStore/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+BookStore/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+BookStore/obj/Debug/net9.0/ref/BookStore.dll
+BookStore/obj/Debug/net9.0/refint/BookStore.dll
